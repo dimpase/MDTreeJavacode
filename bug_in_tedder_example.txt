@@ -1,0 +1,9 @@
+a->b,c,d,e,g,h,i
+b->a,d,e,f,g,h,i
+c->a,d,f,g,h,i
+d->a,b,c,e,g,h,i
+e->a,b,d,f,i
+f->b,c,e,g,h
+g->a,b,c,d,f,i
+h->a,b,c,d,f,i
+i->a,b,c,d,e,g,h
